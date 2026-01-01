@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export GITHUB_TOKEN="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"
+#export GITHUB_TOKEN="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"
 
 if [ -d /opt ] && [ -w /opt ]; then
   WORKDIR=/opt/tmp/nfqws-keenetic/strategy/zapret
